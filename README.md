@@ -4,7 +4,7 @@
 
 Esse projeto é o front-end de um chat feito com React, ele foi criado para demonstrar como conexões websocket podem ser usadas para compartilhar mensagens entre usuários em tempo real.
 
-Você pode testar o projeto já hospedado [através desse link](https://hello-chat-project.vercel.app).
+Você pode testar o projeto já hospedado [através desse link](https://hlx-chat-project.vercel.app).
 
 
 ## 📚 Stack
